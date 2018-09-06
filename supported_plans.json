@@ -1,0 +1,14 @@
+[
+  {
+    "plan_name":"1S",
+    "plan_info":"1 stream plan"
+  },
+  {
+    "plan_name":"2S",
+    "plan_info":"2 concurrent streams plan"
+  },
+  {
+    "plan_name":"4S",
+    "plan_info":"4 concurrent streams plan"
+  }
+]
