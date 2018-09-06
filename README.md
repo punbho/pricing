@@ -25,6 +25,7 @@
 - For changing plans, there is only one URL which changes plans by country.
 - In future, the design can be extended for customer notification and other updates by doing that asynchronously.
 
+![Design](/resources/pricing_design.jpg?raw=true "Pricing design")
 
 ### Assumptions for the implementation
 
